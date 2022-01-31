@@ -12,6 +12,9 @@ Shape
 
 There is a description of how to perform a search, with images. 
 Summary:
+
+
+
 IF you want to serch only info for certain city ;
 
 ![image](https://user-images.githubusercontent.com/93456209/151728217-06e27fca-b53d-4fed-9d90-c1bb4cd183f1.png)
